@@ -25,7 +25,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
     salary.addEventListener('input', getSalary)
 
 });
-// day 44 uc 3
+
 const save = () => {
     try {
         let employeePayrollData = createEmployeePayroll();

@@ -61,7 +61,7 @@ class EmployeePayrollData {
         this._startDate = startDate
     }
 
-    //method
+    //method.
     toString() {
         const options = {
             year: 'numeric',
